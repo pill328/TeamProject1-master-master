@@ -15,6 +15,7 @@
 
         <TableRow>
             <TextView
+                android:id="@+id/a1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -22,6 +23,7 @@
                 android:textSize="17sp"
                 android:text="a1"/>
             <TextView
+                android:id="@+id/b1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -31,6 +33,7 @@
         </TableRow>
         <TableRow>
             <TextView
+                android:id="@+id/a2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -38,6 +41,7 @@
                 android:textSize="17sp"
                 android:text="a2"/>
             <TextView
+                android:id="@+id/b2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -47,6 +51,7 @@
         </TableRow>
         <TableRow>
             <TextView
+                android:id="@+id/a3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -54,6 +59,7 @@
                 android:textSize="17sp"
                 android:text="a3"/>
             <TextView
+                android:id="@+id/b3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -63,6 +69,7 @@
         </TableRow>
         <TableRow>
             <TextView
+                android:id="@+id/a4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -70,6 +77,7 @@
                 android:textSize="17sp"
                 android:text="a4"/>
             <TextView
+                android:id="@+id/b4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -79,6 +87,7 @@
         </TableRow>
         <TableRow>
             <TextView
+                android:id="@+id/a5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -86,6 +95,7 @@
                 android:textSize="17sp"
                 android:text="a5"/>
             <TextView
+                android:id="@+id/b5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -95,6 +105,7 @@
         </TableRow>
         <TableRow>
             <TextView
+                android:id="@+id/a6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -102,6 +113,7 @@
                 android:textSize="17sp"
                 android:text="a6"/>
             <TextView
+                android:id="@+id/b6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -111,6 +123,7 @@
         </TableRow>
         <TableRow>
             <TextView
+                android:id="@+id/a7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -118,6 +131,7 @@
                 android:textSize="17sp"
                 android:text="a7"/>
             <TextView
+                android:id="@+id/b7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -127,6 +141,7 @@
         </TableRow>
         <TableRow>
             <TextView
+                android:id="@+id/a8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -134,6 +149,7 @@
                 android:textSize="17sp"
                 android:text="a8"/>
             <TextView
+                android:id="@+id/b8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -143,6 +159,7 @@
         </TableRow>
         <TableRow>
             <TextView
+                android:id="@+id/a9"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -150,6 +167,7 @@
                 android:textSize="17sp"
                 android:text="a9"/>
             <TextView
+                android:id="@+id/b9"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -159,6 +177,7 @@
         </TableRow>
         <TableRow>
             <TextView
+                android:id="@+id/a10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -166,6 +185,7 @@
                 android:textSize="17sp"
                 android:text="a10"/>
             <TextView
+                android:id="@+id/b10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -175,6 +195,7 @@
         </TableRow>
         <TableRow>
             <TextView
+                android:id="@+id/a11"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -182,6 +203,7 @@
                 android:textSize="17sp"
                 android:text="a11"/>
             <TextView
+                android:id="@+id/b11"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -191,6 +213,7 @@
         </TableRow>
         <TableRow>
             <TextView
+                android:id="@+id/a12"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -198,6 +221,7 @@
                 android:textSize="17sp"
                 android:text="a12"/>
             <TextView
+                android:id="@+id/b12"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
